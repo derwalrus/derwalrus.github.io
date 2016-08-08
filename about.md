@@ -5,8 +5,11 @@ permalink: /about/
 published: true
 ---
 
-I'm a 17 year old student in Bolton, UK
+## Who am I
+
+I'm a 17 year old student in **Bolton, UK**
 
 Interested in a fair few things - computers, food, tea.
 
-Contact me at <james.whalley@outlook.com>
+### Contact me
+<james.whalley@outlook.com>
