@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I'm a 17 year old student in Bolton, UK
 
-### More Information
+Interested in a fair few things - computers, food, tea.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Contact me at <james.whalley@outlook.com>
